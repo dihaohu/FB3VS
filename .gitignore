@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Large data files (video, generated output)
+data/
+output/
+
+# IDE
+.vscode/
+.idea/
